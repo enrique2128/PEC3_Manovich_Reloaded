@@ -11,13 +11,13 @@ Voy a analizar dos casos de hibridación usando un punto de vista parecido al qu
 
 ## Re-descubriendo la hibridacion: SkyView App
 ![enter image description here](https://i.ibb.co/QbSLD6k/sky-View-App-estaci-n.jpg)
-
+Para poder explicar porque se trata de un caso de hibridación, voy a explicar cuáles son las capacidades que nos ofrece esta aplicación para entender los medios que se fusionan entre sí y crean una nueva experiencia.
 **¿Que nos ofrece SkyViewApp?**
-• Enfocar nuestro dispositivo en dirección al cielo para identificar las galaxias, estrellas, constelaciones, planetas y los satélites artificiales (incluyendo la EEI y Hubble) que sobrevuelan nuestra ubicación.
-• Usar la cámara para identificar objetos celestes, de día o de noche.
-• Seguir las trayectorias diarias del sol, la luna y los planetas, y aprender su ubicación exacta en el cielo en cualquier fecha y a cualquier hora.
-• Viajar al futuro o al pasado y observar el cielo en diferentes fechas y horas.
-• Capturar y compartir imágenes con amigos y familiares en las redes sociales.
+**Enfocar** nuestro dispositivo en dirección al cielo para identificar las galaxias, estrellas, constelaciones, planetas y los satélites artificiales (incluyendo la EEI y Hubble) que sobrevuelan nuestra ubicación.
+**Usar la cámara** para identificar objetos celestes, de día o de noche.
+**Seguir las trayectorias** diarias del sol, la luna y los planetas, y aprender su ubicación exacta en el cielo en cualquier fecha y a cualquier hora.
+**Observar** el cielo en diferentes fechas y horas.
+**Capturar** y compartir imágenes con amigos y familiares en las redes sociales.
 
 El mix de características técnicas necesarias para ofrecer estas funcionalidades hacen que esta app sea un caso de hibridación ideal para explicar.
 
