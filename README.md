@@ -7,27 +7,21 @@
 **Fecha:** 19/12/2024
 
 ## Planteamiento
-Voy a analizar dos casos de hibridación usando un punto de vista parecido al que hace Manovich en "el software toma el mando", el primer caso que he seleccionado es  **SkyView App**, que es una aplicación de realidad aumentada (AR) que permite a los usuarios explorar el cielo nocturno identificando constelaciones, planetas, estrellas y satélites en tiempo real. La app utiliza varias tecnologías integradas en dispositivos móviles para ofrecer una experiencia híbrida entre el mundo físico y digital. Y **Invizimals** lanzado para PSP en 2009, hacen uso de la realidad aumentada para crear una experiencia de juego híbrida que combina el mundo físico y digital. Lo que la convierte en un ejemplo de hibridación en el ámbito de los videojuegos.
+Voy a analizar dos casos de hibridación usando un punto de vista parecido al que hace Manovich en "el software toma el mando", el primer caso que he seleccionado es  **SkyView App**, que es una aplicación de realidad aumentada (AR) que permite a los usuarios explorar el cielo nocturno identificando constelaciones, planetas, estrellas y satélites en tiempo real. La app utiliza varias tecnologías integradas en dispositivos móviles para ofrecer una experiencia híbrida entre el mundo físico y digital. El otro caso que he seleccionado es **Invizimals** lanzado para PSP en 2009, hacen uso de la realidad aumentada para crear una experiencia de juego híbrida que combina el mundo físico y digital lo que la convierte en un ejemplo de hibridación en el ámbito de los videojuegos.
 
 ## Re-descubriendo la hibridacion: SkyView App
-<img src="https://i.ibb.co/QbSLD6k/sky-View-App-estaci-n.jpg" alt="sky-View-App-estaci-n" border="0" width="1100" height="600"/>
+![enter image description here](https://i.ibb.co/QbSLD6k/sky-View-App-estaci-n.jpg)
 
 **¿Que nos ofrece SkyViewApp?**
-
 • Enfocar nuestro dispositivo en dirección al cielo para identificar las galaxias, estrellas, constelaciones, planetas y los satélites artificiales (incluyendo la EEI y Hubble) que sobrevuelan nuestra ubicación.
-
 • Usar la cámara para identificar objetos celestes, de día o de noche.
-
 • Seguir las trayectorias diarias del sol, la luna y los planetas, y aprender su ubicación exacta en el cielo en cualquier fecha y a cualquier hora.
-
 • Viajar al futuro o al pasado y observar el cielo en diferentes fechas y horas.
-
-• Capturar y compartir bellas imágenes con amigos y familiares en las redes sociales.
+• Capturar y compartir imágenes con amigos y familiares en las redes sociales.
 
 El mix de características técnicas necesarias para ofrecer estas funcionalidades hacen que esta app sea un caso de hibridación ideal para explicar.
 
 ### Características técnicas.
-
 Esta app está compuesta por unas características técnicas combinadas (sensores, AR, bases de datos astronómicos) para ofrecer una experiencia que transforma como interactuamos con el mundo físico. Desde el punto de vista de Manovich, esta app usa un mix de tecnologías para crear un híbrido y redefinir la manera en la que aprendemos y experimentamos con la astronomía.
 
 1. **Uso de sensores del dispositivo**:
@@ -41,30 +35,30 @@ Ofrece información en tiempo real sobre objetos celestes, usando bases de datos
 	**- Catalogo Messier y NGC (New General Catalogue)**, Incluye nebulosas, galaxias, cúmulos estelares y otros cuerpos no estelares.
 	**- JPL Horizons**, Se usa para predecir la posición de planetas, lunas y asteroides en cualquier momento y desde cualquier ubicación en la Tierra. Útil para rastrear objetos dinámicos como la Estación Espacial Internacional.
 4. **Visualización de trayectorias**:
-Permite simular el movimiento de los objetos celestes en el tiempo, mostrando posiciones pasadas o futuras  datos astronómicos como JPL Horizons como he indicado anteriormente.
+Permite simular el movimiento de los objetos celestes en el tiempo, mostrando posiciones pasadas o futuras gracias a los datos astronómicos como JPL Horizons que he  nombrado anteriormente.
 ### SkyView hibridación según Manovich.
-Se agrupan distintos tipos de medios para crear una nueva representación. Como hemos analizado anteriormente, la app usa diversas bases de datos astronómicas para proporcionar información más exhaustiva, haciendo una combinación de medios.
-Superpone objetos digitales (gráficos, texto y animaciones) sobre el entorno físico captado por la cámara, en este proceso el usuario participa activamente apuntando con el dispositivo al cielo, generando una experiencia en tiempo real. Además combina gráficos dinámicos con información educativa que permite a los usuarios explorar conceptos astronómicos de forma visual e intuitiva. La interacción con objetos celestes virtuales (tocar estrellas o planetas para obtener datos) crea una experiencia híbrida entre el aprendizaje pasivo y la interacción activa.
+SkyViewApp agrupa distintos tipos de medios para crear una nueva representación, me explico, esta app mezcla texto, imágenes, y la realidad y lo mezcla todo creando un hibrido, que crea una nueva manera de representar en este caso, la astronomía. Como hemos analizado anteriormente, la app usa diversas bases de datos astronómicas para proporcionar información más exhaustiva, haciendo una combinación de medios, superpone objetos digitales (gráficos, texto y animaciones) sobre el entorno físico captado por la cámara, en este proceso el usuario participa activamente apuntando con el dispositivo al cielo, generando una experiencia en tiempo real. Además combina gráficos dinámicos con información educativa que permite a los usuarios explorar conceptos astronómicos de forma visual e intuitiva. La interacción con objetos celestes virtuales (tocar estrellas o planetas para obtener datos) crea una experiencia híbrida entre el aprendizaje pasivo y la interacción activa.
 
 ## Re-descubriendo la hibridación: Invizimals
 
 Invizimals combina diferentes tecnologías, mecánicas de juego y elementos del mundo físico y digital. Si nos fijamos en los conceptos de Manovich, el juego representa un ejemplo claro de **hibridación**.
 
 **Hibridación ¿Porque?**
-
 Invizimals combina el entorno físico del jugador con criaturas y animaciones digitales que parecen interactuar con él en tiempo real. Además mezcla el storytelling (contar una historia) propio de los videojuegos con la experiencia física de capturar criaturas en el entorno real, integra gráficos 3D, texto narrativo, animaciones y video en un solo flujo interactivo.
 
 ![invizimals psp](https://i.ibb.co/zNRMW4p/invizimal-trailer.jpg)
 
 En este juego existe una integración de la realidad y lo digital, los jugadores deben usar herramientas del mundo real (tarjetas, cámaras) para interactuar con los elementos virtuales (las criaturas) del videojuego, además el entorno físico, al crearse a partir de la grabación en vivo de la cámara se convierte en un espacio único donde las criaturas digitales interactúan, haciendo la experiencia del jugador más personalizada. Todo ayuda a crear una experiencia inmersiva que trasciende de los videojuegos tradicionales.
 
-Invizimals también supone una nueva experiencia cultural, innovando en el coleccionismo y en la interacción social. El juego permite coleccionar criaturas que pueden interaccionar en el mundo real, y permitía el intercambio de criaturas entre jugadores.
+Invizimals también supone una nueva experiencia cultural, innovando en el coleccionismo y en la interacción social. El juego permite coleccionar criaturas que pueden interaccionar en el mundo real, y permite el intercambio de criaturas entre jugadores.
 
 ### Invizimals hibridación según Manovich.
 
 **Invizimals** es un ejemplo de hibridación porque combina realidad aumentada, mecánicas de juego interactivas y elementos físicos para ofrecer una experiencia única y coherente. Este juego une tecnología, narrativas e interacción con el mundo real, redefiniendo el rol del jugador y su entorno, acercándose a los principios de hibridación propuestos por Manovich. Este enfoque innovador marcó un antes y un después en cómo los videojuegos podían interactuar con el mundo real, podríamos decir que es un hibrido que ha ayudado a evolucionar videojuegos que hacen uso también de la realidad aumentada.
 
 Invizimals convierte elementos físicos (trampas y patrones) en herramientas digitales al reinterpretarlos a través del software. Por ejemplo para capturar un Invizimal tenías que conectar la cámara de la PSP y escanear la habitación en la que te encontrabas, mediante software buscaban patrones de color, y si te acercabas al color subía el marcador del rastreador, cuando tenías el marcador al máximo tenías que lanzar una tarjeta especial (incluida al comprar el juego) para comenzar el proceso de captura. La combinación de la trampa mágica física (tarjeta especial) con la cámara y el software creaba una experiencia híbrida única, donde parecía que el Invizimal realmente aparecía en tu entorno.
+
+En resumen, en Invizimals existe un conjunto de medios, videos, gráficos 3d, el entorno físico, una narrativa, etc., que juntos crean una experiencia inmersiva.
 
 ## Blibliografía
 -   GitHub. (s. f.). _GitHub: Where the world builds software_. Recuperado de [https://github.com/](https://github.com/)
